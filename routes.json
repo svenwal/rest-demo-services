@@ -3,5 +3,8 @@
   "/pets/cats/facts*": "/cat_facts$1",
   "/marketplace/users/:id/orders": "/marketplace_orders?userId=:id",
   "/marketplace/users*": "/marketplace_users$1",
-  "/marketplace/orders*": "/marketplace_orders$1"
+  "/marketplace/orders*": "/marketplace_orders$1",
+  "/mcp/marketplace/users/:id/orders": "/marketplace_orders?userId=:id",
+  "/mcp/marketplace/users*": "/marketplace_users$1",
+  "/mcp/marketplace/orders*": "/marketplace_orders$1"
 }
