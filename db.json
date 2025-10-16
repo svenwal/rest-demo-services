@@ -1,0 +1,549 @@
+{
+  "dog_facts": [
+    {
+      "id": 1,
+      "category": "behavior",
+      "fact": "Dogs can learn over 100 words, but they still pretend they don’t hear 'bath'."
+    },
+    {
+      "id": 2,
+      "category": "smell",
+      "fact": "A dog’s sense of smell is so good, they know what you had for lunch yesterday."
+    },
+    {
+      "id": 3,
+      "category": "behavior",
+      "fact": "Dogs dream just like humans — probably about endless belly rubs and stolen snacks."
+    },
+    {
+      "id": 4,
+      "category": "humor",
+      "fact": "Some dogs can run faster than cheetahs… at least in their dreams."
+    },
+    {
+      "id": 5,
+      "category": "behavior",
+      "fact": "When dogs kick after pooping, they’re not covering it up — they’re marking their territory in style."
+    },
+    {
+      "id": 6,
+      "category": "behavior",
+      "fact": "Your dog thinks every delivery person is a potential threat to national security."
+    },
+    {
+      "id": 7,
+      "category": "communication",
+      "fact": "Dogs tilt their heads to look cute — and it always works."
+    },
+    {
+      "id": 8,
+      "category": "humor",
+      "fact": "The average dog can make you happier faster than a cup of coffee."
+    },
+    {
+      "id": 9,
+      "category": "humor",
+      "fact": "Dogs don’t care if you talk to yourself, as long as treats are involved."
+    },
+    {
+      "id": 10,
+      "category": "behavior",
+      "fact": "Golden Retrievers were bred to retrieve things — like your socks, whether you asked or not."
+    },
+    {
+      "id": 11,
+      "category": "habits",
+      "fact": "Dogs have about 1,700 taste buds, but still eat things they find on the sidewalk."
+    },
+    {
+      "id": 12,
+      "category": "communication",
+      "fact": "A wagging tail doesn’t always mean happiness — sometimes it’s just high-speed communication."
+    },
+    {
+      "id": 13,
+      "category": "behavior",
+      "fact": "Dogs can smell fear, which is why they chase joggers who run away screaming."
+    },
+    {
+      "id": 14,
+      "category": "humor",
+      "fact": "Some dogs snore louder than humans and have no shame about it."
+    },
+    {
+      "id": 15,
+      "category": "behavior",
+      "fact": "Dogs don’t have a concept of time, but they always know when dinner is late."
+    },
+    {
+      "id": 16,
+      "category": "communication",
+      "fact": "Dogs invented the puppy eyes look to win arguments with humans."
+    },
+    {
+      "id": 17,
+      "category": "humor",
+      "fact": "Your dog has no idea what a selfie is but will photobomb every one of them."
+    },
+    {
+      "id": 18,
+      "category": "smell",
+      "fact": "Dogs can recognize their owners by smell alone, even after years apart — or one shower."
+    },
+    {
+      "id": 19,
+      "category": "appearance",
+      "fact": "A dog’s wet nose helps it absorb scent chemicals, and also makes for perfect nose prints on windows."
+    },
+    {
+      "id": 20,
+      "category": "behavior",
+      "fact": "Corgis were bred to herd cattle, but now they mostly herd humans to the couch."
+    },
+    {
+      "id": 21,
+      "category": "habits",
+      "fact": "Dogs don’t sweat like humans — they pant dramatically instead."
+    },
+    {
+      "id": 22,
+      "category": "humor",
+      "fact": "Your dog probably thinks 'fetch' is a human training exercise."
+    },
+    {
+      "id": 23,
+      "category": "behavior",
+      "fact": "Dogs can sense when you’re sad — and then sit on your lap until you feel better."
+    },
+    {
+      "id": 24,
+      "category": "behavior",
+      "fact": "Beagles were once bred for hunting, now they hunt crumbs under the dining table."
+    },
+    {
+      "id": 25,
+      "category": "general",
+      "fact": "Dogs can be left- or right-pawed, just like humans are left- or right-handed."
+    },
+    {
+      "id": 26,
+      "category": "behavior",
+      "fact": "Some dogs love baths — others act like you’re attempting a murder."
+    },
+    {
+      "id": 27,
+      "category": "appearance",
+      "fact": "Dalmatians are born completely white — their spots appear later, like freckles after vacation."
+    },
+    {
+      "id": 28,
+      "category": "behavior",
+      "fact": "Dogs are one of the few animals that genuinely enjoy being hugged."
+    },
+    {
+      "id": 29,
+      "category": "humor",
+      "fact": "The phrase 'dog tired' came from observing dogs after zoomies."
+    },
+    {
+      "id": 30,
+      "category": "hearing",
+      "fact": "Dogs can hear four times better than humans — especially the sound of cheese wrappers."
+    },
+    {
+      "id": 31,
+      "category": "appearance",
+      "fact": "Some dogs have eyebrows expressive enough to win Oscars."
+    },
+    {
+      "id": 32,
+      "category": "habits",
+      "fact": "Dogs often sleep in a ball to protect their organs — or because the blanket is too small."
+    },
+    {
+      "id": 33,
+      "category": "humor",
+      "fact": "If dogs could text, 90% of their messages would be about food."
+    },
+    {
+      "id": 34,
+      "category": "behavior",
+      "fact": "Dogs can tell when you’re lying — especially if it’s about going to the park."
+    },
+    {
+      "id": 35,
+      "category": "behavior",
+      "fact": "Chihuahuas have the biggest personalities per square inch in the animal kingdom."
+    },
+    {
+      "id": 36,
+      "category": "behavior",
+      "fact": "A Greyhound could outrun a cheetah over distance — but it would stop halfway for a nap."
+    },
+    {
+      "id": 37,
+      "category": "communication",
+      "fact": "Dogs can actually laugh — it just sounds like heavy panting."
+    },
+    {
+      "id": 38,
+      "category": "habits",
+      "fact": "Dogs love routines so much, they think weekends are a personal insult."
+    },
+    {
+      "id": 39,
+      "category": "behavior",
+      "fact": "Some dogs are terrified of vacuum cleaners — because clearly, it’s a monster."
+    },
+    {
+      "id": 40,
+      "category": "humor",
+      "fact": "Your dog thinks you’re a magician every time you open the fridge."
+    },
+    {
+      "id": 41,
+      "category": "communication",
+      "fact": "Dogs can understand your tone better than your words — especially if you use the 'treat voice'."
+    },
+    {
+      "id": 42,
+      "category": "communication",
+      "fact": "A dog’s tail is a built-in mood indicator — no batteries required."
+    },
+    {
+      "id": 43,
+      "category": "behavior",
+      "fact": "Dogs don’t understand mirrors — they just think there’s another dog who refuses to play."
+    },
+    {
+      "id": 44,
+      "category": "habits",
+      "fact": "Some dogs roll in smelly stuff because it makes them feel fashionable."
+    },
+    {
+      "id": 45,
+      "category": "general",
+      "fact": "Dogs have been humans’ best friends for over 15,000 years — and they still haven’t gotten bored."
+    },
+    {
+      "id": 46,
+      "category": "communication",
+      "fact": "Dogs wag their tails in different directions depending on their emotions — science says so!"
+    },
+    {
+      "id": 47,
+      "category": "behavior",
+      "fact": "Your dog has no idea how big or small it is — that’s why Chihuahuas bark at Great Danes."
+    },
+    {
+      "id": 48,
+      "category": "behavior",
+      "fact": "Dogs love squeaky toys because it mimics the sound of their prey — and your sanity breaking."
+    },
+    {
+      "id": 49,
+      "category": "habits",
+      "fact": "No matter how many toys you buy, your dog will still prefer your slipper."
+    },
+    {
+      "id": 50,
+      "category": "behavior",
+      "fact": "Dogs can detect diseases, but mostly they just diagnose you as 'needs more snacks'."
+    }
+  ],
+  "cat_facts": [
+    {
+      "id": 1,
+      "category": "behavior",
+      "fact": "Cats think knocking things off tables is performance art."
+    },
+    {
+      "id": 2,
+      "category": "sleep",
+      "fact": "Cats sleep up to 16 hours a day — they call it 'power napping,' humans call it 'lazy'."
+    },
+    {
+      "id": 3,
+      "category": "communication",
+      "fact": "When your cat blinks slowly at you, it's their way of saying 'I tolerate you'."
+    },
+    {
+      "id": 4,
+      "category": "humor",
+      "fact": "Cats don’t fetch — they subcontract that work to dogs."
+    },
+    {
+      "id": 5,
+      "category": "behavior",
+      "fact": "Cats only meow at humans — it’s their custom ringtone for us."
+    },
+    {
+      "id": 6,
+      "category": "behavior",
+      "fact": "When your cat shows you their belly, it’s not always an invitation — it’s a trap."
+    },
+    {
+      "id": 7,
+      "category": "habits",
+      "fact": "Cats groom themselves 50% of the day and judge your hygiene the rest of the time."
+    },
+    {
+      "id": 8,
+      "category": "humor",
+      "fact": "Your cat sits on your laptop because it’s warm and because you love it."
+    },
+    {
+      "id": 9,
+      "category": "behavior",
+      "fact": "Cats believe 3 AM is the ideal time for hallway parkour."
+    },
+    {
+      "id": 10,
+      "category": "communication",
+      "fact": "A cat’s purr can mean 'I’m happy' or 'I’m plotting something.' There’s no middle ground."
+    },
+    {
+      "id": 11,
+      "category": "appearance",
+      "fact": "Each cat’s nose print is unique, just like a human fingerprint."
+    },
+    {
+      "id": 12,
+      "category": "humor",
+      "fact": "Your cat thinks you’re a large, clumsy roommate who opens cans."
+    },
+    {
+      "id": 13,
+      "category": "behavior",
+      "fact": "Cats have a natural instinct to sit in any box, bag, or suitcase that exists."
+    },
+    {
+      "id": 14,
+      "category": "habits",
+      "fact": "If a cat fits, it sits. And even if it doesn’t fit — it still sits."
+    },
+    {
+      "id": 15,
+      "category": "humor",
+      "fact": "Cats were once worshipped as gods, and they have not forgotten."
+    },
+    {
+      "id": 16,
+      "category": "behavior",
+      "fact": "When cats stare at nothing, they’re probably seeing ghosts — or ignoring you."
+    },
+    {
+      "id": 17,
+      "category": "sleep",
+      "fact": "Cats can dream — mostly about food, chaos, and world domination."
+    },
+    {
+      "id": 18,
+      "category": "appearance",
+      "fact": "Cats’ whiskers are so sensitive they can detect tiny changes in air currents — and yet they still run into doors."
+    },
+    {
+      "id": 19,
+      "category": "communication",
+      "fact": "When your cat brings you a dead mouse, that’s their version of a gift card."
+    },
+    {
+      "id": 20,
+      "category": "humor",
+      "fact": "Cats believe gravity is optional and humans exist to refill bowls."
+    },
+    {
+      "id": 21,
+      "category": "behavior",
+      "fact": "Cats will ignore you all day — then demand attention when you’re busiest."
+    },
+    {
+      "id": 22,
+      "category": "humor",
+      "fact": "Cats knock things over to test whether you’re paying attention."
+    },
+    {
+      "id": 23,
+      "category": "appearance",
+      "fact": "A cat’s fur pattern is as unique as its personality — both equally unpredictable."
+    },
+    {
+      "id": 24,
+      "category": "communication",
+      "fact": "Cats purr not only when happy but also when healing themselves — tiny furry doctors!"
+    },
+    {
+      "id": 25,
+      "category": "behavior",
+      "fact": "Cats walk like supermodels — always as if someone’s watching."
+    },
+    {
+      "id": 26,
+      "category": "humor",
+      "fact": "Cats don’t follow rules. They *are* the rules."
+    },
+    {
+      "id": 27,
+      "category": "habits",
+      "fact": "When cats nap on your laptop, they’re saving you from working too much."
+    },
+    {
+      "id": 28,
+      "category": "communication",
+      "fact": "A cat’s tail language is complex — but the meaning is always 'I’m fabulous'."
+    },
+    {
+      "id": 29,
+      "category": "behavior",
+      "fact": "Cats can jump up to six times their body length, mostly onto things they’re not supposed to."
+    },
+    {
+      "id": 30,
+      "category": "appearance",
+      "fact": "Some cats have thumbs — because evolution wanted them to open treat jars eventually."
+    },
+    {
+      "id": 31,
+      "category": "humor",
+      "fact": "Cats think your 4 AM alarm is an amateur attempt at breakfast time."
+    },
+    {
+      "id": 32,
+      "category": "behavior",
+      "fact": "Cats don’t meow to other cats — just to manipulate humans."
+    },
+    {
+      "id": 33,
+      "category": "habits",
+      "fact": "A cat’s favorite hobby is pretending to help you work."
+    },
+    {
+      "id": 34,
+      "category": "appearance",
+      "fact": "Black cats were once feared — now they’re just fashion icons."
+    },
+    {
+      "id": 35,
+      "category": "behavior",
+      "fact": "Cats chase laser pointers for exercise and existential frustration."
+    },
+    {
+      "id": 36,
+      "category": "communication",
+      "fact": "Cats use slow blinks to say 'you’re okay... for now'."
+    },
+    {
+      "id": 37,
+      "category": "humor",
+      "fact": "Cats don’t fetch because they’re management, not staff."
+    },
+    {
+      "id": 38,
+      "category": "habits",
+      "fact": "Cats love sitting on laundry — especially the white clothes."
+    },
+    {
+      "id": 39,
+      "category": "appearance",
+      "fact": "Cats have retractable claws — stealth mode activated."
+    },
+    {
+      "id": 40,
+      "category": "humor",
+      "fact": "Cats believe every cardboard box is a luxury condo."
+    },
+    {
+      "id": 41,
+      "category": "behavior",
+      "fact": "Cats can rotate their ears 180 degrees — perfect for ignoring you efficiently."
+    },
+    {
+      "id": 42,
+      "category": "communication",
+      "fact": "Cats rub against you to mark you as theirs — congratulations, you’re property."
+    },
+    {
+      "id": 43,
+      "category": "habits",
+      "fact": "Cats drink water by flicking their tongues at lightning speed — hydration with flair."
+    },
+    {
+      "id": 44,
+      "category": "behavior",
+      "fact": "Cats love sunbeams like humans love Wi-Fi."
+    },
+    {
+      "id": 45,
+      "category": "humor",
+      "fact": "When cats sprint through the house at 3 AM, they’re fighting invisible demons — or boredom."
+    },
+    {
+      "id": 46,
+      "category": "behavior",
+      "fact": "Cats love to sit exactly where you’re about to sit — because that’s their seat now."
+    },
+    {
+      "id": 47,
+      "category": "appearance",
+      "fact": "Cats’ pupils adjust dramatically with light — and with drama."
+    },
+    {
+      "id": 48,
+      "category": "habits",
+      "fact": "Cats spend hours perfecting their fur, only to shed it all over you."
+    },
+    {
+      "id": 49,
+      "category": "humor",
+      "fact": "Your cat doesn’t hate you — they’re just disappointed in your life choices."
+    },
+    {
+      "id": 50,
+      "category": "behavior",
+      "fact": "Cats can detect earthquakes before humans — but won’t warn you unless snacks are involved."
+    }
+  ],
+  "marketplace_users": [
+    {
+      "id": "a1b2c3d4",
+      "fullName": "Alice Johnson"
+    },
+    {
+      "id": "e5f6g7h8",
+      "fullName": "Bob Smith"
+    },
+    {
+      "id": "i9j0k1l2",
+      "fullName": "Charlie Lee"
+    },
+    {
+      "id": "m3n4o5p6",
+      "fullName": "Diana Evans"
+    },
+    {
+      "id": "q7r8s9t0",
+      "fullName": "Ethan Brown"
+    },
+    {
+      "id": "u1v2w3x4",
+      "fullName": "Fiona Clark"
+    },
+    {
+      "id": "y5z6a7b8",
+      "fullName": "George Harris"
+    },
+    {
+      "id": "c9d0e1f2",
+      "fullName": "Hannah Lewis"
+    },
+    {
+      "id": "g3h4i5j6",
+      "fullName": "Ian Walker"
+    },
+    {
+      "id": "k7l8m9n0",
+      "fullName": "Julia Turner"
+    }
+  ],
+  "marketplace_orders": [{"id":"ord001","name":"Sugar (50kg)","userId":"a1b2c3d4"},{"id":"ord002","name":"Cleaning Supplies Pack","userId":"a1b2c3d4"},{"id":"ord003","name":"Canned Tomatoes (100 cans)","userId":"a1b2c3d4"},{"id":"ord004","name":"Flour (100kg)","userId":"e5f6g7h8"},{"id":"ord005","name":"Dish Soap (10 bottles)","userId":"e5f6g7h8"},{"id":"ord006","name":"Salt (25kg)","userId":"e5f6g7h8"},{"id":"ord007","name":"Olive Oil (20L)","userId":"i9j0k1l2"},{"id":"ord008","name":"Baking Powder (10kg)","userId":"i9j0k1l2"},{"id":"ord009","name":"Rice (200kg)","userId":"m3n4o5p6"},{"id":"ord010","name":"Vegetable Oil (15L)","userId":"m3n4o5p6"},{"id":"ord011","name":"Pasta (80kg)","userId":"m3n4o5p6"},{"id":"ord012","name":"Canned Beans (50 cans)","userId":"m3n4o5p6"},{"id":"ord013","name":"Toilet Paper (Case of 48)","userId":"q7r8s9t0"},{"id":"ord014","name":"Hand Sanitizer (20 bottles)","userId":"q7r8s9t0"},{"id":"ord015","name":"Laundry Detergent (10L)","userId":"u1v2w3x4"},{"id":"ord016","name":"Trash Bags (100 ct)","userId":"u1v2w3x4"},{"id":"ord017","name":"Disinfectant Spray (5 bottles)","userId":"u1v2w3x4"},{"id":"ord018","name":"Coffee Beans (30kg)","userId":"k7l8m9n0"},{"id":"ord019","name":"Tea Bags (500ct)","userId":"k7l8m9n0"},{"id":"ord020","name":"Condensed Milk (40 cans)","userId":"k7l8m9n0"},{"id":"ord021","name":"Paper Towels (24 rolls)","userId":"g3h4i5j6"},{"id":"ord022","name":"Broom & Mop Set","userId":"g3h4i5j6"},{"id":"ord023","name":"Cereal (20 boxes)","userId":"c9d0e1f2"},{"id":"ord024","name":"Powdered Milk (10kg)","userId":"c9d0e1f2"},{"id":"ord025","name":"Snacks Variety Pack","userId":"c9d0e1f2"},{"id":"ord026","name":"Cooking Gas Cylinder","userId":"y5z6a7b8"},{"id":"ord027","name":"Napkins (1000ct)","userId":"y5z6a7b8"}]
+}

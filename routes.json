@@ -1,0 +1,6 @@
+{
+  "/pets/dogs/facts*": "/dog_facts$1",
+  "/pets/cats/facts*": "/cat_facts$1",
+  "/marketplace/users*": "/marketplace_users$1",
+  "/marketplace/orders*": "/marketplace_orders$1"
+}
